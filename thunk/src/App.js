@@ -6,7 +6,7 @@ import MovieList from './components/MovieList';
 function App() {
   return (
     <div>
-      <h1>Thunk</h1>
+      <h1>Studio Ghibli Movie Suggestions:</h1>
       <MovieList />
     </div>
   );

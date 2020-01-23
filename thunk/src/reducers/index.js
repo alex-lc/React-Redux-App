@@ -2,7 +2,7 @@ import { FETCH_MOVIES_FAIL, FETCH_MOVIES_START, FETCH_MOVIES_SUCCESS } from "../
 
 const initialState = {
     isLoading: false,
-    films: {},
+    films: null,
     error: ''
 }
 
