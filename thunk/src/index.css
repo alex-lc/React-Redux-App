@@ -47,4 +47,16 @@ table {
 	border-spacing: 0;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 /* End of Reset */
+
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap');
+
+html {
+  background: #233047;
+  font-size: 62.5%;
+  font-family: 'Oswald', sans-serif;
+}
